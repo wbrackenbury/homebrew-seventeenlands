@@ -7,7 +7,7 @@ class Seventeenlands < Formula
   sha256 "cb3f871a8bca22ebb73aed63a3e68d24f88d88445566fb13b62cbdb558724b02"
   license "GPL-3.0"
 
-  depends_on "python@3.11"
+  depends_on "python@3.10"
 
   resource "certifi" do
     url "https://files.pythonhosted.org/packages/e6/de/879cf857ae6f890dfa23c3d6239814c5471936b618c8fb0c8732ad5da885/certifi-2020.11.8.tar.gz"
